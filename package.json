@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0",
+    "validator": "^13.9.0",
+    "zxcvbn": "^4.4.2"
+  }
+}
